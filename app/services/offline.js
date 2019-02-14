@@ -1,1 +1,1 @@
-export { default } from 'ember-offline/services/offline';
+// export { default } from 'ember-offline/services/offline';
